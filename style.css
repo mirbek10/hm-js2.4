@@ -1,0 +1,28 @@
+.zxc{
+
+     display: flex;
+    /* justify-content: space-between; */ 
+}
+button{
+    width: 200px; 
+    height: 60px;
+    background-color: #FFC400;
+    border-radius: 15px;
+    border: none;
+    
+}
+h1{
+    color: blue;
+}
+.photo{
+    border-radius: 12px;
+    position: relative;
+    /* width: 500px;
+    height: 500px; */
+}
+img{
+    border-radius: 50%;
+}
+.userlist{
+
+}
